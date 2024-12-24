@@ -1,0 +1,26 @@
+body{
+    background: lightblue;
+}
+
+.title{
+    color: brown;
+}
+
+.container{
+    max-width: 600px;
+}
+
+input[type=text],
+input[type=text]:focus {
+    border: none;
+    background: lightseagreen;
+    max-width: 600px;
+}
+
+.todos li{
+    background: lightcoral;
+}
+
+.delete{
+    cursor: pointer;
+}
